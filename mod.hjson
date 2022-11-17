@@ -1,0 +1,11 @@
+{
+    name: "sakura-japanese-mod"
+    displayName: "Sakuraサーバー日本語化mod"
+    author: Sakura
+    description: "Sakuraのメンバーで翻訳した日本語化modです。"
+    version: "1.0"
+    minGameVersion: "140.4"
+    dependencies: [ ]
+    hidden: true
+  }
+  
