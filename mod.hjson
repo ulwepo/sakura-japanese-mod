@@ -3,7 +3,7 @@
     displayName: "Sakuraサーバー日本語化mod"
     author: Sakura
     description: "Sakuraのメンバーで翻訳した日本語化modです。"
-    version: "2"
+    version: "2.1"
     minGameVersion: "140.4"
     dependencies: [ ]
     hidden: true
